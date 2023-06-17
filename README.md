@@ -4,9 +4,6 @@
 
 A simple responsive web page built using sass (.scss by the way) stylesheet (this scss files eventually gets compiled, compressed for production)
 
-## Demo
-
-https://heartfelt-raindrop-e122d5.netlify.app/
 
 ## Lessons Learned
 
